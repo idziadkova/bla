@@ -1,0 +1,11 @@
+for (var mystring='#'; mystring.length<8; mystring=mystring+'#')
+  console.log(mystring);
+
+
+
+
+var string="#"
+while (string.length<8){
+  console.log (string);
+  string=string+"#";
+}
